@@ -1,0 +1,355 @@
+{
+    "61579": {
+        "name": "One Does Not Simply",
+        "text": [
+            ["One does not simply", "merge into master"],
+            ["One does not simply", "Talk to siri in public"],
+            ["One does not simply", "'Cut and paste' Code"],
+            ["One does not simply", "Use aws"],
+            ["One does not simply", "Update WordPress plugins"],
+            ["One does not simply", "Host WordPress"],
+            ["One does not simply", "Debug JavaScript"],
+            ["One does not simply", "Upgrade PHP version"],
+            ["One does not simply", "Deploy to the cloud"],
+            ["One does not simply", "Appear in search engine results"]
+        ]
+    },
+    "438680": {
+        "name": "Batman Slapping Robin",
+        "text": [
+            ["PHP 6?", "PHP7!!"],
+            ["You don't delete other peoples code", "it didn't compile"]
+        ]
+    },
+    "4087833": {
+        "name": "Waiting Skeleton",
+        "text": [
+            ["Waiting for code", "to compile like"],
+            ["Waiting for the code to run", "still waiting"],
+            ["Waiting for documents", "to upload to WordPress"]
+        ]
+    },
+    "61520": {
+        "name": "Sceptical Futurama Fry",
+        "text": [
+            ["Not sure if it's php error", "or it's user error"],
+            ["Not sure if staging", "or production"],
+            ["Not sure if everything is expensive", "or i am just poor"],
+            ["Not sure if chaos", "or agile development"]
+        ]
+    },
+    "347390": {
+        "name": "X, X Everywhere",
+        "text": [
+            ["WordPress plugin vulnerabilities", "WordPress plugin vulnerabilities everywhere"],
+            ["Plugins", "Plugins everywhere"],
+            ["Bugs", "Bugs everywhere"],
+            ["Wix Websites", "Wix Websites everywhere"],
+            ["git merge conflicts", "git merge conflicts everywhere"],
+            ["php $ signs", "$ signs everywhere"],
+            ["react, React js", "everywhere"],
+            ["legacy code", "legacy code everywhere"],
+            ["spaghetti code", "spaghetti code everywhere"]
+        ]
+    },
+    "101470": {
+        "name": "Ancient Aliens",
+        "text": [
+            ["you must", "become the code"],
+            ["", "WordPress"]
+        ]
+    },
+    "61532": {
+        "name": "The Most Interesting Man In The World",
+        "text": [
+            ["I don't always test my code", "but when I do, I do it in production"],
+            ["I don't always push code", "but when I do it's directly to production"],
+            ["I don't always develop websites", "but when I do I make them responsive"],
+            ["I don't usually discuss paradoxes", "but when I do, I don't"],
+            ["I don't always code", "but when I do I prefer JavaScript"],
+            ["I don't always have git write access", "but when I do, I commit"]
+        ]
+    },
+    "28251713": {
+        "name": "Oprah You Get A",
+        "text": [
+            ["", "everybody gets an error"]
+        ]
+    },
+    "5496396": {
+        "name": "Leonardo Dicaprio Cheers"
+    },
+    "1035805": {
+        "name": "Boardroom Meeting Suggestion"
+    },
+    "93895088": {
+        "name": "Expanding Brain"
+    },
+    "563423": {
+        "name": "That Would Be Great"
+    },
+    "61546": {
+        "name": "Brace Yourselves X is Coming"
+    },
+    "13424299": {
+        "name": "Yall Got Any More Of"
+    },
+    "61527": {
+        "name": "Y U No"
+    },
+    "61539": {
+        "name": "First World Problems"
+    },
+    "8072285": {
+        "name": "Doge"
+    },
+    "61533": {
+        "name": "X All The Y"
+    },
+    "61582": {
+        "name": "Creepy Condescending Wonka"
+    },
+    "61585": {
+        "name": "Bad Luck Brian"
+    },
+    "101288": {
+        "name": "Third World Skeptical Kid"
+    },
+    "61544": {
+        "name": "Success Kid"
+    },
+    "1509839": {
+        "name": "Captain Picard Facepalm"
+    },
+    "16464531": {
+        "name": "But Thats None Of My Business"
+    },
+    "97984": {
+        "name": "Disaster Girl"
+    },
+    "14371066": {
+        "name": "Star Wars Yoda"
+    },
+    "14230520": {
+        "name": "Black Girl Wat"
+    },
+    "405658": {
+        "name": "Grumpy Cat"
+    },
+    "21735": {
+        "name": "The Rock Driving"
+    },
+    "100947": {
+        "name": "Matrix Morpheus"
+    },
+    "61556": {
+        "name": "Grandma Finds The Internet"
+    },
+    "6235864": {
+        "name": "Finding Neverland"
+    },
+    "235589": {
+        "name": "Evil Toddler"
+    },
+    "40945639": {
+        "name": "Dr Evil Laser"
+    },
+    "61516": {
+        "name": "Philosoraptor"
+    },
+    "101511": {
+        "name": "Dont You Squidward"
+    },
+    "245898": {
+        "name": "Picard Wtf"
+    },
+    "101440": {
+        "name": "10 Guy"
+    },
+    "259680": {
+        "name": "Am I The Only One Around Here"
+    },
+    "9440985": {
+        "name": "Face You Make Robert Downey Jr"
+    },
+    "56225174": {
+        "name": "Be Like Bill"
+    },
+    "101716": {
+        "name": "Yo Dawg Heard You"
+    },
+    "100955": {
+        "name": "Confession Bear"
+    },
+    "101287": {
+        "name": "Third World Success Kid"
+    },
+    "61580": {
+        "name": "Too Damn High"
+    },
+    "13757816": {
+        "name": "Awkward Moment Sealion"
+    },
+    "195389": {
+        "name": "Sparta Leonidas"
+    },
+    "444501": {
+        "name": "Maury Lie Detector"
+    },
+    "922147": {
+        "name": "Laughing Men In Suits"
+    },
+    "101711": {
+        "name": "Skeptical Baby"
+    },
+    "61581": {
+        "name": "Put It Somewhere Else Patrick"
+    },
+    "124212": {
+        "name": "Say That Again I Dare You"
+    },
+    "718432": {
+        "name": "Back In My Day"
+    },
+    "61583": {
+        "name": "Conspiracy Keanu"
+    },
+    "21604248": {
+        "name": "Mugatu So Hot Right Now"
+    },
+    "766986": {
+        "name": "Aaaaand Its Gone"
+    },
+    "109765": {
+        "name": "Ill Just Wait Here"
+    },
+    "442575": {
+        "name": "Aint Nobody Got Time For That"
+    },
+    "12403754": {
+        "name": "Bad Pun Dog"
+    },
+    "143601": {
+        "name": "Steve Harvey"
+    },
+    "89655": {
+        "name": "Uncle Sam"
+    },
+    "61584": {
+        "name": "Socially Awesome Awkward Penguin"
+    },
+    "10628640": {
+        "name": "Archer"
+    },
+    "3218037": {
+        "name": "This Is Where I'd Put My Trophy If I Had One"
+    },
+    "74191766": {
+        "name": "Arthur Fist"
+    },
+    "29617627": {
+        "name": "Look At Me"
+    },
+    "1790995": {
+        "name": "And everybody loses their minds"
+    },
+    "27813981": {
+        "name": "Hide the Pain Harold"
+    },
+    "1232104": {
+        "name": "Pepperidge Farm Remembers"
+    },
+    "163573": {
+        "name": "Imagination Spongebob"
+    },
+    "6531067": {
+        "name": "See Nobody Cares"
+    },
+    "228024": {
+        "name": "Liam Neeson Taken"
+    },
+    "28034788": {
+        "name": "Marvel Civil War 1"
+    },
+    "61522": {
+        "name": "Scumbag Steve"
+    },
+    "412211": {
+        "name": "Jackie Chan WTF"
+    },
+    "17699": {
+        "name": "Buddy Christ"
+    },
+    "176908": {
+        "name": "Shut Up And Take My Money Fry"
+    },
+    "47235368": {
+        "name": "Good Fellas Hilarious"
+    },
+    "36061805": {
+        "name": "Dave Chappelle"
+    },
+    "1367068": {
+        "name": "I Should Buy A Boat Cat"
+    },
+    "68690826": {
+        "name": "Spongegar"
+    },
+    "460541": {
+        "name": "Jack Sparrow Being Chased"
+    },
+    "681831": {
+        "name": "Gollum"
+    },
+    "10364354": {
+        "name": "Its Not Going To Happen"
+    },
+    "401687": {
+        "name": "Buddy The Elf"
+    },
+    "100952": {
+        "name": "Overly Attached Girlfriend"
+    },
+    "7761261": {
+        "name": "Unpopular Opinion Puffin"
+    },
+    "59250": {
+        "name": "Bender"
+    },
+    "371382": {
+        "name": "Simba Shadowy Place"
+    },
+    "356615": {
+        "name": "Peter Griffin News"
+    },
+    "107773": {
+        "name": "Spiderman Peter Parker"
+    },
+    "1366993": {
+        "name": "Spiderman Computer Desk"
+    },
+    "389834": {
+        "name": "Ryan Gosling"
+    },
+    "101462": {
+        "name": "Ermahgerd Berks"
+    },
+    "409403": {
+        "name": "Obi Wan Kenobi"
+    },
+    "8279814": {
+        "name": "Cute Cat"
+    },
+    "27920": {
+        "name": "Surprised Koala"
+    },
+    "1202623": {
+        "name": "Keep Calm And Carry On Red"
+    },
+    "17496002": {
+        "name": "Leonardo Dicaprio Wolf Of Wall Street"
+    },
+    "265789": {
+        "name": "Kevin Hart The Hell"
+    }
+}
