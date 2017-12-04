@@ -116,7 +116,10 @@
         "name": "Third World Skeptical Kid"
     },
     "61544": {
-        "name": "Success Kid"
+        "name": "Success Kid",
+        "text": [
+            ["Pushed new code", "works by accident"]
+        ]
     },
     "1509839": {
         "name": "Captain Picard Facepalm"
