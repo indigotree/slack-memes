@@ -49,7 +49,8 @@
             ["php $ signs", "$ signs everywhere"],
             ["react, React js", "everywhere"],
             ["legacy code", "legacy code everywhere"],
-            ["spaghetti code", "spaghetti code everywhere"]
+            ["spaghetti code", "spaghetti code everywhere"],
+            ["inline styles", "inline styles everywhere"]
         ]
     },
     "101470": {
