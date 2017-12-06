@@ -11,7 +11,8 @@
             ["One does not simply", "Debug JavaScript"],
             ["One does not simply", "Upgrade PHP version"],
             ["One does not simply", "Deploy to the cloud"],
-            ["One does not simply", "Appear in search engine results"]
+            ["One does not simply", "Appear in search engine results"],
+            ["One does not simply", "Mess with css"]
         ]
     },
     "438680": {
@@ -35,7 +36,9 @@
             ["Not sure if it's php error", "or it's user error"],
             ["Not sure if staging", "or production"],
             ["Not sure if everything is expensive", "or i am just poor"],
-            ["Not sure if chaos", "or agile development"]
+            ["Not sure if chaos", "or agile development"],
+            ["Not sure if I Actually know how to code", "or if I am really good at copy pasting"],
+            ["no errors", ""]
         ]
     },
     "347390": {
@@ -50,14 +53,16 @@
             ["react, React js", "everywhere"],
             ["legacy code", "legacy code everywhere"],
             ["spaghetti code", "spaghetti code everywhere"],
-            ["inline styles", "inline styles everywhere"]
+            ["inline styles", "inline styles everywhere"],
+            ["dependencies", "dependencies everywhere"]
         ]
     },
     "101470": {
         "name": "Ancient Aliens",
         "text": [
             ["you must", "become the code"],
-            ["", "WordPress"]
+            ["", "WordPress"],
+            ["NAN!==NAN", "Javascript"]
         ]
     },
     "61532": {
@@ -68,7 +73,8 @@
             ["I don't always develop websites", "but when I do I make them responsive"],
             ["I don't usually discuss paradoxes", "but when I do, I don't"],
             ["I don't always code", "but when I do I prefer JavaScript"],
-            ["I don't always have git write access", "but when I do, I commit"]
+            ["I don't always have git write access", "but when I do, I commit"],
+            ["I don't always write in javascript", "but when I do, I check to see what new javascript framework came out in the last 48 hours"]
         ]
     },
     "28251713": {
@@ -90,19 +96,28 @@
         "name": "That Would Be Great"
     },
     "61546": {
-        "name": "Brace Yourselves X is Coming"
+        "name": "Brace Yourselves X is Coming",
+        "text": [
+            ["Brace yourselves", "Gutenberg is coming"]
+        ]
     },
     "13424299": {
         "name": "Yall Got Any More Of"
     },
     "61527": {
-        "name": "Y U No"
+        "name": "Y U No",
+        "text": [
+            ["Web Developer", "Y U No write unit test"]
+        ]
     },
     "61539": {
         "name": "First World Problems"
     },
     "8072285": {
-        "name": "Doge"
+        "name": "Doge",
+        "text": [
+            ["Much internet such open", "many sauce great code"]
+        ]
     },
     "61533": {
         "name": "X All The Y"
@@ -119,7 +134,9 @@
     "61544": {
         "name": "Success Kid",
         "text": [
-            ["Pushed new code", "works by accident"]
+            ["Pushed new code", "works by accident"],
+            ["Coding time", ""],
+            ["git merge", "no conflicts"]
         ]
     },
     "1509839": {
@@ -129,7 +146,10 @@
         "name": "But Thats None Of My Business"
     },
     "97984": {
-        "name": "Disaster Girl"
+        "name": "Disaster Girl",
+        "text": [
+            ["Build not complete", "release anyways"]
+        ]
     },
     "14371066": {
         "name": "Star Wars Yoda"
@@ -156,10 +176,16 @@
         "name": "Evil Toddler"
     },
     "40945639": {
-        "name": "Dr Evil Laser"
+        "name": "Dr Evil Laser",
+        "text": [
+            ["HTML", "'Programmer'"]
+        ]
     },
     "61516": {
-        "name": "Philosoraptor"
+        "name": "Philosoraptor",
+        "text": [
+            ["What programming language did they use", "to make the first programming language?"]
+        ]
     },
     "101511": {
         "name": "Dont You Squidward"
@@ -228,7 +254,10 @@
         "name": "Ill Just Wait Here"
     },
     "442575": {
-        "name": "Aint Nobody Got Time For That"
+        "name": "Aint Nobody Got Time For That",
+        "text": [
+            ["Rewrite bad code", "Ain't nobody got time fot that"]
+        ]
     },
     "12403754": {
         "name": "Bad Pun Dog"
@@ -270,7 +299,10 @@
         "name": "See Nobody Cares"
     },
     "228024": {
-        "name": "Liam Neeson Taken"
+        "name": "Liam Neeson Taken",
+        "text": [
+            ["I don't know who you are", "But if you deploy on a friday, I will find you and I will kill you"]
+        ]
     },
     "28034788": {
         "name": "Marvel Civil War 1"
@@ -339,7 +371,12 @@
         "name": "Ermahgerd Berks"
     },
     "409403": {
-        "name": "Obi Wan Kenobi"
+        "name": "Obi Wan Kenobi",
+        "text": [
+            ["I sense a disturbance", "In the code"],
+            ["Up to date documentation", "Now there is something I haven't seen in a long time"],
+            ["git wisdom", "use the --force, luke"]
+        ]
     },
     "8279814": {
         "name": "Cute Cat"
