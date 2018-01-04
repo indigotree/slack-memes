@@ -93,7 +93,10 @@
         "name": "Expanding Brain"
     },
     "563423": {
-        "name": "That Would Be Great"
+        "name": "That Would Be Great",
+        "text": [
+            ["If you could stop waiting till the last minute to give devs the requirements", "that'd be great"]
+        ]
     },
     "61546": {
         "name": "Brace Yourselves X is Coming",
@@ -116,7 +119,8 @@
     "8072285": {
         "name": "Doge",
         "text": [
-            ["Much internet such open", "many sauce great code"]
+            ["Much internet such open", "many sauce great code"],
+            ["Such developer", "much skill"]
         ]
     },
     "61533": {
@@ -148,7 +152,8 @@
     "97984": {
         "name": "Disaster Girl",
         "text": [
-            ["Build not complete", "release anyways"]
+            ["Build not complete", "release anyways"],
+            ["Worked fine in dev", "Ops problem now"]
         ]
     },
     "14371066": {
@@ -164,10 +169,18 @@
         "name": "The Rock Driving"
     },
     "100947": {
-        "name": "Matrix Morpheus"
+        "name": "Matrix Morpheus",
+        "text": [
+            ["What if i told you", "Serverless runs on servers"]
+        ]
     },
     "61556": {
-        "name": "Grandma Finds The Internet"
+        "name": "Grandma Finds The Internet",
+        "text": [
+            ["Do they deliver e-mails", "On sunday?"],
+            ["Tracking my cookies?", "They will never get my recipe!"],
+            ["Frank! Come here..", "There's a fella in Nigeria who says we're rich!"]
+        ]
     },
     "6235864": {
         "name": "Finding Neverland"
@@ -392,5 +405,23 @@
     },
     "265789": {
         "name": "Kevin Hart The Hell"
+    },
+    "646581": {
+        "name": "I Too Like To Live Dangerously",
+        "text": [
+            ["I hit \"update\" without backing up files or database", "I too like to live dangerously"]
+        ]
+    },
+    "17742880": {
+        "name": "Steve Carell Banana",
+        "text": [
+            ["I changed all my passwords to \"incorrect\"", "So whenever I forget, it will tell me \"Your password is incorrect\""]
+        ]
+    },
+    "26278636": {
+        "name": "IT Crowd",
+        "text": [
+            ["Hello IT", "Have you tried turning it off and on again?"]
+        ]
     }
 }
