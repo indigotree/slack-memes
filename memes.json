@@ -54,7 +54,8 @@
             ["legacy code", "legacy code everywhere"],
             ["spaghetti code", "spaghetti code everywhere"],
             ["inline styles", "inline styles everywhere"],
-            ["dependencies", "dependencies everywhere"]
+            ["dependencies", "dependencies everywhere"],
+            ["technical debt", "technical debt everywhere"]
         ]
     },
     "101470": {
